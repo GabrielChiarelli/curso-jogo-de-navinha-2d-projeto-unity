@@ -1,5 +1,5 @@
 <!--# jogo-de-navinha-2d-projeto-unity-->
- <h1>CRIE UM JOGO DE NAVINHA 2D NA UNITY E C# - Desenvolvendo Jogos</h1>
+ <h1>CURSO: CRIE UM JOGO DE NAVINHA 2D NA UNITY E C# - Desenvolvendo Jogos</h1>
  Nesse repositório você encontra o projeto (com todos os arquivos) do nosso Curso Gratuito "CRIE UM JOGO DE NAVINHA 2D NA UNITY E C#", do meu canal no YouTube, Desenvolvendo Jogos.
  <br>
  Espero que se divirta bastante e aprenda diversas coisas novas com ele :)
